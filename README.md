@@ -11,6 +11,15 @@ I am a Computer Science student with a passion for solving problems through both
 *   **Methodology:** Utilizes normalization, artifact-specific augmentation, and CNN feature extraction to distinguish between high-quality captures and distorted ones.
 *   **Tech Stack:** Python, Custom Convolutional Neural Networks (CNN), NumPy, and Pandas.
 
+###  [Linux Systems Programming & IPC](https://github.com/Linoyav2001/Linux-Systems-Programming)
+**Low-level development and Inter-Process Communication (IPC) mechanisms in Linux.**
+* **Overview:** A collection of C programs demonstrating deep understanding of Operating System architecture, process lifecycle, and synchronization in a POSIX environment.
+* **Key Components:**
+    * **Mini Shell:** Custom Unix shell implementing `fork()`, `execv()`, and process management.
+    * **Shared Memory & Mutex:** Synchronization of 100+ concurrent processes using System V IPC and binary semaphores to prevent race conditions.
+    * **Process Synchronization:** Strict execution flow control using semaphore arrays for complex inter-process coordination.
+* **Tech Stack:** C, Linux/POSIX System Calls, System V IPC (Semaphores, Shared Memory), and Multiprocessing.
+
 
 ###  [EyesOn](https://github.com/afik191/EyesOn)
 **AI-Powered Assistive Wearable for the Visually Impaired.**
@@ -41,7 +50,8 @@ I am a Computer Science student with a passion for solving problems through both
 
 
 ##  Skills & Technologies
-*   **Languages:** Java, JavaScript, Python, HTML/CSS.
+*   **Languages:** C, Java, JavaScript, Python, HTML/CSS.
+*   **Systems & Infrastructure:** Linux Systems Programming, IPC (Semaphores, Shared Memory), POSIX API, Multiprocessing.
 *   **Frontend & UI:** React 19, Material UI, Recharts, Vite.
 *   **Mobile & Backend:** Android SDK, Firebase (Auth/Realtime DB), Retrofit2, WebSockets.
 *   **AI & Computer Vision:** Deep Learning, Convolutional Neural Networks (CNNs), YOLOv11, OpenCV.
